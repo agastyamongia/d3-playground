@@ -39,3 +39,4 @@
 
 - Understand how models are initialized/saved in AWE
 - Parse that information to easily create visual model for SimBioUI
+- Rather than specifically assigning (x, y) coordinates to each element, create a dynamic environment with automatic layout and positioning (d3.forceSimulation())
