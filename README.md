@@ -33,7 +33,7 @@
 
 ## What's Done?
 
-- Model visualized using hardcoded model data
+- Rough model visualization using hardcoded model data
 
 ## What's Next?
 
